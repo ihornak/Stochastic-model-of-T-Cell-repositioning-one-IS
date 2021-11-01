@@ -1,0 +1,1 @@
+Folder for the text files used for the production of povray files.
