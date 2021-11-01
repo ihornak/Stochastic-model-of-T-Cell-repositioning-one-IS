@@ -19,7 +19,7 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Successfully built on
 
-* - 4.1.7-hardened-r1-ARCH
+* 4.1.7-hardened-r1-ARCH
 * 5.8.14-arch1-1
 
 ## Build process
