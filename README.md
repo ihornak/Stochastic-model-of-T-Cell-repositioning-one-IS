@@ -24,7 +24,7 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Build process
 
-CMake is our build system. You most likely need to configure the build according to your system specifics. Basic buils can be done by placing both folders in the build directory.
+CMake is our build system. You most likely need to configure the build according to your system specifics. Basic build can be done by placing both folders in the build directory.
 
 \$ cd build_directory <br />
 \$ cmake one_IS_source_code/ -DCMAKE_BUILD_TYPE="" . <br />
